@@ -12,7 +12,7 @@ Votre PR doit apporter les modifications en Markdown valide selon le format suiv
 
 Assurez de respecter les critères suivants:
 
-* Le projet doit être **MADE IN CI** comme le nom l'implique :grin:.
+* Le projet doit être **MADE IN Senegal** comme le nom l'implique :grin:.
 
 * Le projet doit être open source.
 
