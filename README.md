@@ -5,7 +5,7 @@ Made in Senegal
 Répertoire du code Made in Senegal.
 </p>
 
-Montrons au monde que le Senegal produit du code de qualité, des outils de qualité. Nous sommes non seulement consommateurs mais aussi créateurs. Si vos êtes développeurs et que vous avez créer un outil, une framework ou tout autre contribution open source, partagez là avec nous à travers cette vitrine du savoir-faire sénégalais. [Comment participer](contributing.md)
+Montrons au monde que le Sénégal produit du code de qualité, des outils de qualité. Nous sommes non seulement consommateurs mais aussi créateurs. Si vous êtes développeurs et que vous avez crée un outil, un framework ou tout autre contribution open source, partagez le avec nous à travers cette vitrine du savoir-faire sénégalais. [Comment participer](contributing.md)
 
 [A](#A) | [B](#B) | [C](#C) | [D](#D) | [E](#E) | [F](#F) | [G](#G) | [H](#H) | [I](#I) | [J](#J) | [K](#K) | [L](#L) | [M](#M) | [N](#N) | [O](#O) | [P](#P) | [Q](#Q) | [R](#R) | [S](#S) | [T](#T) | [U](#U) | [V](#V) | [W](#W) | [X](#X) | [Y](#Y) | [Z](#Z)
 
