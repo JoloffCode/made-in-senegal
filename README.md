@@ -44,6 +44,8 @@ Montrons au monde que le Sénégal produit du code de qualité, des outils de qu
 
 ## <a name="L"> </a>L
 
+* [Laliasprite](https://github.com/Shadoworker/LaliaSprite) - Laliasprite, is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when an animation is playing for example). **Par [Shadow/ @habibe_ba/>](https://twitter.com/habibe_ba) ,  [Shadow/Facebook>](https://web.facebook.com/profile.php?id=100008637455604)**
+
 
 ## <a name="M"> </a>M
 
