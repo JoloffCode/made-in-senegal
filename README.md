@@ -44,6 +44,8 @@ Montrons au monde que le Sénégal produit du code de qualité, des outils de qu
 
 ## <a name="L"> </a>L
 
+* [Laliasprite](https://github.com/Shadoworker/LaliaSprite) - Laliasprite, is a PhaserJS based tool-framework that helps you to generate hitboxes for your 2D game characters and setup interactions with them (when an animation is playing for example). **Par [Shadow / @habibe_ba](https://twitter.com/habibe_ba) ,  [Shadow(fb)](https://web.facebook.com/profile.php?id=100008637455604)**
+
 
 ## <a name="M"> </a>M
 
@@ -85,5 +87,9 @@ Montrons au monde que le Sénégal produit du code de qualité, des outils de qu
 
 
 ## <a name="Z"> </a>Z
+
+* [ZakuJS](https://github.com/Shadoworker/ZakuJS) - ZakuJS is a Js framework for dealing with svg path rigging and transition(animation)
+. **Par [Shadow / @habibe_ba](https://twitter.com/habibe_ba) ,  [Shadow(fb)](https://web.facebook.com/profile.php?id=100008637455604)**
+
 
 
